@@ -4,10 +4,10 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://favicons.githubusercontent.com/beefsandbeers.com",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1461,
@@ -15,16 +15,18 @@
     "timeWeek": 1421,
     "timeMonth": 1461,
     "timeYear": 1461,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 1
+    }
   },
   {
     "name": "Moodstudios",
     "url": "https://moodstudios.nl",
     "icon": "https://favicons.githubusercontent.com/moodstudios.nl",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 779,
     "timeMonth": 862,
     "timeYear": 862,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-10": 0
+    }
   },
   {
     "name": "Nijwa",
