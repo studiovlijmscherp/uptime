@@ -1,7 +1,7 @@
 url: https://www.lightronics.nl
-status: up
-code: 200
-responseTime: 1629
-lastUpdated: 2021-10-12T23:16:12.318Z
+status: down
+code: 502
+responseTime: 3506
+lastUpdated: 2021-10-13T12:40:08.702Z
 startTime: Tue Sep 28 2021 08:28:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
