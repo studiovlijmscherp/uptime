@@ -58,9 +58,9 @@
     "url": "https://bluekenstruckenbus.nl",
     "icon": "https://favicons.githubusercontent.com/bluekenstruckenbus.nl",
     "slug": "bluekens",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1418,
     "timeMonth": 2270,
     "timeYear": 2270,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-27": 0
+    }
   },
   {
     "name": "Lightronics",
