@@ -58,19 +58,19 @@
     "url": "https://bluekenstruckenbus.nl",
     "icon": "https://favicons.githubusercontent.com/bluekenstruckenbus.nl",
     "slug": "bluekens",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2270,
-    "timeDay": 1666,
-    "timeWeek": 1418,
-    "timeMonth": 2270,
-    "timeYear": 2270,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "98.08%",
+    "uptimeWeek": "99.73%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 2253,
+    "timeDay": 1662,
+    "timeWeek": 1448,
+    "timeMonth": 2253,
+    "timeYear": 2253,
     "dailyMinutesDown": {
-      "2021-10-27": 0
+      "2021-10-27": 28
     }
   },
   {
