@@ -40,29 +40,31 @@
     "url": "https://nijwa.nl",
     "icon": "https://favicons.githubusercontent.com/nijwa.nl",
     "slug": "nijwa",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.78%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1525,
     "timeDay": 1411,
     "timeWeek": 1619,
     "timeMonth": 1510,
     "timeYear": 1525,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-31": 3
+    }
   },
   {
     "name": "Bluekens",
     "url": "https://bluekenstruckenbus.nl",
     "icon": "https://favicons.githubusercontent.com/bluekenstruckenbus.nl",
     "slug": "bluekens",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 2177,
     "timeDay": 1521,
@@ -70,6 +72,7 @@
     "timeMonth": 2054,
     "timeYear": 2177,
     "dailyMinutesDown": {
+      "2021-10-31": 2,
       "2021-10-27": 28
     }
   },
@@ -78,9 +81,9 @@
     "url": "https://www.lightronics.nl",
     "icon": "https://favicons.githubusercontent.com/www.lightronics.nl",
     "slug": "lightronics",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.95%",
@@ -90,6 +93,7 @@
     "timeMonth": 1594,
     "timeYear": 1532,
     "dailyMinutesDown": {
+      "2021-10-31": 0,
       "2021-10-13": 23
     }
   },
