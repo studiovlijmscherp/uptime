@@ -4,10 +4,10 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://favicons.githubusercontent.com/beefsandbeers.com",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.50%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "98.45%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
     "time": 1432,
@@ -16,6 +16,7 @@
     "timeMonth": 1419,
     "timeYear": 1432,
     "dailyMinutesDown": {
+      "2021-11-02": 1,
       "2021-11-01": 22
     }
   },
@@ -24,9 +25,9 @@
     "url": "https://moodstudios.nl",
     "icon": "https://favicons.githubusercontent.com/moodstudios.nl",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.53%",
+    "uptimeDay": "98.52%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.96%",
@@ -36,6 +37,7 @@
     "timeMonth": 849,
     "timeYear": 862,
     "dailyMinutesDown": {
+      "2021-11-02": 0,
       "2021-11-01": 21
     }
   },
@@ -65,11 +67,11 @@
     "icon": "https://favicons.githubusercontent.com/bluekenstruckenbus.nl",
     "slug": "bluekens",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.28%",
     "uptimeMonth": "99.83%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 2131,
     "timeDay": 1347,
     "timeWeek": 1541,
