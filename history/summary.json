@@ -4,11 +4,11 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://favicons.githubusercontent.com/beefsandbeers.com",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.94%",
     "time": 1476,
     "timeDay": 1393,
@@ -16,6 +16,7 @@
     "timeMonth": 1491,
     "timeYear": 1476,
     "dailyMinutesDown": {
+      "2021-11-17": 1,
       "2021-11-02": 20,
       "2021-11-01": 22
     }
@@ -25,9 +26,9 @@
     "url": "https://moodstudios.nl",
     "icon": "https://favicons.githubusercontent.com/moodstudios.nl",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.92%",
@@ -37,6 +38,7 @@
     "timeMonth": 1105,
     "timeYear": 1018,
     "dailyMinutesDown": {
+      "2021-11-17": 0,
       "2021-11-02": 36,
       "2021-11-01": 21
     }
