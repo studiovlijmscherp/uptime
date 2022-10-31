@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/beefsandbeers.com.ico",
     "slug": "beefs-and-beers",
     "status": "up",
-    "uptime": "99.65%",
+    "uptime": "99.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 1466,
-    "timeDay": 1194,
-    "timeWeek": 1299,
-    "timeMonth": 1439,
+    "timeDay": 1358,
+    "timeWeek": 1323,
+    "timeMonth": 1436,
     "timeYear": 1470,
     "dailyMinutesDown": {
       "2022-07-30": 15,
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 883,
-    "timeDay": 779,
-    "timeWeek": 826,
-    "timeMonth": 778,
+    "timeDay": 857,
+    "timeWeek": 794,
+    "timeMonth": 781,
     "timeYear": 886,
     "dailyMinutesDown": {
       "2022-07-25": 520,
@@ -86,17 +86,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.82%",
-    "time": 1735,
-    "timeDay": 1414,
-    "timeWeek": 1220,
-    "timeMonth": 1439,
-    "timeYear": 1755,
+    "time": 1734,
+    "timeDay": 1596,
+    "timeWeek": 1291,
+    "timeMonth": 1444,
+    "timeYear": 1756,
     "dailyMinutesDown": {
       "2022-04-26": 367,
       "2022-03-16": 458,
       "2022-03-15": 38,
-      "2021-11-29": 15,
-      "2021-10-31": 46
+      "2021-11-29": 15
     }
   },
   {
@@ -110,17 +109,16 @@
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.82%",
-    "time": 2142,
-    "timeDay": 1114,
-    "timeWeek": 1045,
-    "timeMonth": 1005,
-    "timeYear": 2137,
+    "time": 2163,
+    "timeDay": 10832,
+    "timeWeek": 2266,
+    "timeMonth": 1312,
+    "timeYear": 2162,
     "dailyMinutesDown": {
       "2022-10-27": 32,
       "2022-04-26": 366,
       "2022-03-16": 458,
-      "2022-03-15": 19,
-      "2021-10-31": 45
+      "2022-03-15": 19
     }
   },
   {
@@ -134,10 +132,10 @@
     "uptimeWeek": "96.61%",
     "uptimeMonth": "99.22%",
     "uptimeYear": "99.43%",
-    "time": 4756,
-    "timeDay": 1459,
-    "timeWeek": 1254,
-    "timeMonth": 1194,
+    "time": 4751,
+    "timeDay": 1727,
+    "timeWeek": 1318,
+    "timeMonth": 1211,
     "timeYear": 5002,
     "dailyMinutesDown": {
       "2022-10-25": 342,
@@ -157,8 +155,7 @@
       "2022-03-15": 18,
       "2022-02-07": 29,
       "2021-11-29": 39,
-      "2021-11-17": 18,
-      "2021-10-31": 43
+      "2021-11-17": 18
     }
   },
   {
@@ -172,10 +169,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "95.58%",
     "uptimeYear": "99.62%",
-    "time": 675,
-    "timeDay": 597,
-    "timeWeek": 542,
-    "timeMonth": 557,
+    "time": 676,
+    "timeDay": 735,
+    "timeWeek": 565,
+    "timeMonth": 563,
     "timeYear": 680,
     "dailyMinutesDown": {
       "2022-10-19": 495,
