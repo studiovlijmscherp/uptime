@@ -1,7 +1,7 @@
 url: https://beefsandbeers.com
-status: down
-code: 500
-responseTime: 872
-lastUpdated: 2023-06-27T15:56:49.260Z
+status: up
+code: 200
+responseTime: 1605
+lastUpdated: 2023-06-27T16:15:00.749Z
 startTime: Tue Sep 28 2021 08:28:34 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
