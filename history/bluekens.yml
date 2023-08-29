@@ -1,7 +1,7 @@
 url: https://bluekenstruckenbus.nl
-status: up
-code: 200
-responseTime: 1168
-lastUpdated: 2023-08-28T23:13:15.015Z
+status: down
+code: 500
+responseTime: 3745
+lastUpdated: 2023-08-29T14:35:52.017Z
 startTime: 2021-09-28T08:28:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
