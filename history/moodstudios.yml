@@ -1,7 +1,7 @@
 url: https://moodstudios.nl
-status: up
-code: 200
-responseTime: 2706
-lastUpdated: 2023-11-10T23:13:29.524Z
+status: down
+code: 503
+responseTime: 13540
+lastUpdated: 2023-11-11T05:33:40.634Z
 startTime: 2021-09-28T08:28:36.000Z
 generator: Upptime <https://github.com/upptime/upptime>
