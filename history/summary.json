@@ -4,18 +4,19 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://icons.duckduckgo.com/ip3/beefsandbeers.com.ico",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "92.47%",
-    "uptimeWeek": "94.44%",
+    "uptimeDay": "92.43%",
+    "uptimeWeek": "95.47%",
     "uptimeMonth": "95.00%",
     "uptimeYear": "99.55%",
     "time": 1555,
     "timeDay": 1622,
-    "timeWeek": 1704,
+    "timeWeek": 1709,
     "timeMonth": 1574,
     "timeYear": 1556,
     "dailyMinutesDown": {
+      "2024-06-12": 1,
       "2024-06-11": 109,
       "2024-06-10": 34,
       "2024-06-09": 38,
@@ -47,8 +48,7 @@
       "2024-05-11": 53,
       "2024-05-10": 75,
       "2024-05-09": 19,
-      "2024-05-08": 31,
-      "2024-05-06": 21
+      "2024-05-08": 31
     }
   },
   {
@@ -56,18 +56,19 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "90.19%",
-    "uptimeWeek": "94.34%",
+    "uptimeDay": "90.17%",
+    "uptimeWeek": "95.35%",
     "uptimeMonth": "95.19%",
-    "uptimeYear": "99.54%",
-    "time": 3213,
+    "uptimeYear": "99.55%",
+    "time": 3215,
     "timeDay": 13641,
-    "timeWeek": 6404,
-    "timeMonth": 3687,
+    "timeWeek": 6502,
+    "timeMonth": 3692,
     "timeYear": 3304,
     "dailyMinutesDown": {
+      "2024-06-12": 0,
       "2024-06-11": 141,
       "2024-06-10": 63,
       "2024-06-09": 37,
@@ -102,8 +103,7 @@
       "2024-05-08": 30,
       "2024-05-06": 39,
       "2024-05-05": 19,
-      "2024-05-03": 35,
-      "2024-05-02": 29
+      "2024-05-03": 35
     }
   },
   {
