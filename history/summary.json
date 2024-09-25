@@ -4,10 +4,10 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://icons.duckduckgo.com/ip3/beefsandbeers.com.ico",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.55%",
     "time": 1648,
@@ -16,6 +16,7 @@
     "timeMonth": 1731,
     "timeYear": 1664,
     "dailyMinutesDown": {
+      "2024-09-25": 1,
       "2024-09-04": 17,
       "2024-08-27": 19,
       "2024-08-24": 18,
@@ -54,8 +55,7 @@
       "2024-05-20": 80,
       "2024-05-19": 38,
       "2024-05-18": 97,
-      "2024-05-17": 55,
-      "2024-05-16": 17
+      "2024-05-17": 55
     }
   },
   {
@@ -63,18 +63,19 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.44%",
-    "time": 3453,
+    "time": 3454,
     "timeDay": 2006,
     "timeWeek": 3401,
     "timeMonth": 2966,
     "timeYear": 3503,
     "dailyMinutesDown": {
+      "2024-09-25": 0,
       "2024-09-04": 16,
       "2024-08-27": 18,
       "2024-08-24": 18,
@@ -117,8 +118,7 @@
       "2024-05-17": 39,
       "2024-05-16": 16,
       "2024-05-15": 31,
-      "2024-05-14": 66,
-      "2024-05-13": 28
+      "2024-05-14": 66
     }
   },
   {
@@ -201,9 +201,9 @@
     "slug": "bluekens-emailwall-n8-n",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.86%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 733,
     "timeDay": 633,
@@ -211,7 +211,6 @@
     "timeMonth": 910,
     "timeYear": 755,
     "dailyMinutesDown": {
-      "2024-09-25": 12,
       "2024-09-09": 48,
       "2024-06-08": 19,
       "2023-12-12": 41,
