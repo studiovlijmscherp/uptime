@@ -12,7 +12,7 @@
     "uptimeYear": "99.55%",
     "time": 1651,
     "timeDay": 1509,
-    "timeWeek": 1424,
+    "timeWeek": 1449,
     "timeMonth": 1734,
     "timeYear": 1670,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
     "uptimeYear": "99.43%",
     "time": 3406,
     "timeDay": 2056,
-    "timeWeek": 2100,
+    "timeWeek": 2145,
     "timeMonth": 2512,
     "timeYear": 3411,
     "dailyMinutesDown": {
@@ -129,18 +129,19 @@
     "url": "https://nijwa.nl",
     "icon": "https://icons.duckduckgo.com/ip3/nijwa.nl.ico",
     "slug": "nijwa",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1650,
+    "time": 1651,
     "timeDay": 909,
     "timeWeek": 2252,
     "timeMonth": 2810,
-    "timeYear": 1761,
+    "timeYear": 1762,
     "dailyMinutesDown": {
+      "2024-11-09": 0,
       "2024-05-20": 55,
       "2023-12-12": 41
     }
@@ -160,7 +161,7 @@
     "timeDay": 638,
     "timeWeek": 782,
     "timeMonth": 834,
-    "timeYear": 941,
+    "timeYear": 940,
     "dailyMinutesDown": {
       "2024-10-31": 91,
       "2024-08-02": 509,
