@@ -1,7 +1,7 @@
 url: https://wat.verzameldwerk.com/webhook/fd953b37-1e7e-4fde-9008-cd19f39d1e5d
-status: up
-code: 200
-responseTime: 817
-lastUpdated: 2024-11-15T23:17:40.454Z
+status: down
+code: 404
+responseTime: 15963
+lastUpdated: 2024-11-16T03:08:15.664Z
 startTime: 2021-09-28T15:03:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
