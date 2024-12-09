@@ -4,10 +4,10 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://icons.duckduckgo.com/ip3/beefsandbeers.com.ico",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.79%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.78%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.55%",
     "time": 1658,
@@ -16,6 +16,7 @@
     "timeMonth": 1571,
     "timeYear": 1669,
     "dailyMinutesDown": {
+      "2024-12-09": 1,
       "2024-12-06": 22,
       "2024-11-30": 28,
       "2024-11-21": 19,
@@ -59,8 +60,7 @@
       "2024-05-25": 130,
       "2024-05-24": 152,
       "2024-05-23": 42,
-      "2024-05-22": 73,
-      "2024-05-21": 21
+      "2024-05-22": 73
     }
   },
   {
@@ -68,18 +68,19 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.44%",
-    "time": 3386,
+    "time": 3387,
     "timeDay": 1931,
     "timeWeek": 2508,
     "timeMonth": 2403,
     "timeYear": 3370,
     "dailyMinutesDown": {
+      "2024-12-09": 0,
       "2024-12-06": 21,
       "2024-11-30": 28,
       "2024-11-21": 19,
@@ -126,7 +127,7 @@
       "2024-05-23": 26,
       "2024-05-22": 71,
       "2024-05-21": 20,
-      "2024-05-20": 77
+      "2024-05-20": 59
     }
   },
   {
@@ -143,7 +144,7 @@
     "time": 1632,
     "timeDay": 939,
     "timeWeek": 1287,
-    "timeMonth": 1077,
+    "timeMonth": 1067,
     "timeYear": 1764,
     "dailyMinutesDown": {
       "2024-05-20": 55,
@@ -184,14 +185,14 @@
     "status": "up",
     "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.81%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "94.49%",
-    "uptimeYear": "99.42%",
+    "uptimeYear": "99.52%",
     "time": 1354,
     "timeDay": 1213,
-    "timeWeek": 1386,
+    "timeWeek": 1396,
     "timeMonth": 1970,
-    "timeYear": 1360,
+    "timeYear": 1359,
     "dailyMinutesDown": {
       "2024-12-02": 461,
       "2024-12-01": 1440,
