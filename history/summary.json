@@ -138,9 +138,9 @@
     "slug": "nijwa",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1728,
     "timeDay": 1003,
@@ -148,7 +148,6 @@
     "timeMonth": 1690,
     "timeYear": 1895,
     "dailyMinutesDown": {
-      "2025-02-05": 7,
       "2025-01-04": 38,
       "2024-05-20": 55
     }
