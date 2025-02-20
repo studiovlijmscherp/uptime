@@ -138,9 +138,9 @@
     "slug": "nijwa",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1728,
     "timeDay": 779,
@@ -148,7 +148,6 @@
     "timeMonth": 1496,
     "timeYear": 1898,
     "dailyMinutesDown": {
-      "2025-02-20": 7,
       "2025-01-04": 38,
       "2024-05-20": 55
     }
@@ -158,9 +157,9 @@
     "url": "https://bluekenstruckenbus.nl",
     "icon": "https://icons.duckduckgo.com/ip3/bluekenstruckenbus.nl.ico",
     "slug": "bluekens",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
@@ -170,6 +169,7 @@
     "timeMonth": 911,
     "timeYear": 851,
     "dailyMinutesDown": {
+      "2025-02-20": 0,
       "2024-10-31": 91,
       "2024-08-02": 509,
       "2024-05-10": 61,
