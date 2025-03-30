@@ -6,17 +6,17 @@
     "slug": "beefs-and-beers",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "92.67%",
-    "uptimeWeek": "90.60%",
-    "uptimeMonth": "97.79%",
+    "uptimeDay": "93.12%",
+    "uptimeWeek": "90.67%",
+    "uptimeMonth": "97.80%",
     "uptimeYear": "99.55%",
     "time": 1662,
     "timeDay": 1583,
     "timeWeek": 1638,
-    "timeMonth": 1625,
+    "timeMonth": 1623,
     "timeYear": 1672,
     "dailyMinutesDown": {
-      "2025-03-29": 104,
+      "2025-03-29": 98,
       "2025-03-28": 240,
       "2025-03-27": 276,
       "2025-03-26": 208,
@@ -55,7 +55,7 @@
       "2024-06-06": 185,
       "2024-06-05": 158,
       "2024-06-04": 106,
-      "2024-06-03": 34
+      "2024-06-03": 52
     }
   },
   {
@@ -72,7 +72,7 @@
     "time": 3307,
     "timeDay": 1182,
     "timeWeek": 1141,
-    "timeMonth": 2684,
+    "timeMonth": 2665,
     "timeYear": 3318,
     "dailyMinutesDown": {
       "2025-03-10": 22,
@@ -141,7 +141,7 @@
     "time": 1842,
     "timeDay": 2825,
     "timeWeek": 2486,
-    "timeMonth": 2170,
+    "timeMonth": 2131,
     "timeYear": 1994,
     "dailyMinutesDown": {
       "2025-03-29": 52,
@@ -163,7 +163,7 @@
     "time": 917,
     "timeDay": 841,
     "timeWeek": 849,
-    "timeMonth": 978,
+    "timeMonth": 968,
     "timeYear": 862,
     "dailyMinutesDown": {
       "2024-10-31": 91,
@@ -186,7 +186,7 @@
     "time": 1382,
     "timeDay": 6272,
     "timeWeek": 2615,
-    "timeMonth": 1679,
+    "timeMonth": 1652,
     "timeYear": 1327,
     "dailyMinutesDown": {
       "2025-03-26": 43,
@@ -217,7 +217,7 @@
     "time": 920,
     "timeDay": 502,
     "timeWeek": 517,
-    "timeMonth": 1315,
+    "timeMonth": 1291,
     "timeYear": 952,
     "dailyMinutesDown": {
       "2025-03-11": 30,
