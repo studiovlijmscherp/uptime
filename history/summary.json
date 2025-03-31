@@ -4,14 +4,14 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://icons.duckduckgo.com/ip3/beefsandbeers.com.ico",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "78.66%",
+    "uptimeDay": "80.62%",
     "uptimeWeek": "85.86%",
     "uptimeMonth": "96.69%",
     "uptimeYear": "99.51%",
     "time": 1662,
-    "timeDay": 1514,
+    "timeDay": 1528,
     "timeWeek": 1674,
     "timeMonth": 1655,
     "timeYear": 1675,
@@ -54,8 +54,7 @@
       "2024-06-10": 34,
       "2024-06-09": 38,
       "2024-06-07": 37,
-      "2024-06-06": 185,
-      "2024-06-05": 18
+      "2024-06-06": 185
     }
   },
   {
