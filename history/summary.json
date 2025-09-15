@@ -4,9 +4,9 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://icons.duckduckgo.com/ip3/beefsandbeers.com.ico",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "97.57%",
@@ -16,6 +16,7 @@
     "timeMonth": 2120,
     "timeYear": 1731,
     "dailyMinutesDown": {
+      "2025-09-15": 0,
       "2025-09-08": 22,
       "2025-09-07": 23,
       "2025-09-02": 23,
@@ -58,7 +59,7 @@
       "2025-04-05": 263,
       "2025-04-04": 234,
       "2025-04-03": 335,
-      "2025-04-02": 146
+      "2025-04-02": 129
     }
   },
   {
