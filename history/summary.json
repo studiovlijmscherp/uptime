@@ -144,19 +144,19 @@
     "url": "https://bluekenstruckenbus.nl",
     "icon": "https://icons.duckduckgo.com/ip3/bluekenstruckenbus.nl.ico",
     "slug": "bluekens",
-    "status": "down",
+    "status": "up",
     "uptime": "99.91%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.99%",
     "time": 938,
-    "timeDay": 665,
-    "timeWeek": 837,
-    "timeMonth": 917,
+    "timeDay": 742,
+    "timeWeek": 844,
+    "timeMonth": 916,
     "timeYear": 970,
     "dailyMinutesDown": {
-      "2025-12-02": 1
+      "2025-12-02": 44
     }
   },
   {
