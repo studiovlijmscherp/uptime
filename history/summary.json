@@ -99,16 +99,16 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "87.98%",
+    "uptimeDay": "87.97%",
     "uptimeWeek": "86.88%",
-    "uptimeMonth": "86.69%",
+    "uptimeMonth": "86.78%",
     "uptimeYear": "98.59%",
-    "time": 1443,
+    "time": 1441,
     "timeDay": 974,
     "timeWeek": 981,
-    "timeMonth": 955,
+    "timeMonth": 960,
     "timeYear": 1173,
     "dailyMinutesDown": {
       "2026-05-02": 173,
@@ -172,8 +172,7 @@
       "2025-11-17": 18,
       "2025-11-16": 17,
       "2025-11-15": 20,
-      "2025-10-16": 26,
-      "2025-08-25": 20
+      "2025-10-16": 26
     }
   },
   {
@@ -268,7 +267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/wat.verzameldwerk.com.ico",
     "slug": "bluekens-emailwall-n8-n",
     "status": "up",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
