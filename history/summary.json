@@ -100,15 +100,15 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "76.34%",
-    "uptimeWeek": "86.07%",
+    "uptimeDay": "76.33%",
+    "uptimeWeek": "86.86%",
     "uptimeMonth": "87.73%",
-    "uptimeYear": "98.23%",
-    "time": 1325,
+    "uptimeYear": "98.24%",
+    "time": 1322,
     "timeDay": 1088,
-    "timeWeek": 958,
+    "timeWeek": 951,
     "timeMonth": 961,
     "timeYear": 1159,
     "dailyMinutesDown": {
@@ -167,8 +167,7 @@
       "2026-02-18": 36,
       "2026-02-17": 98,
       "2026-02-15": 23,
-      "2026-02-14": 24,
-      "2026-02-13": 40
+      "2026-02-14": 24
     }
   },
   {
