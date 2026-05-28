@@ -13,7 +13,7 @@
     "time": 1778,
     "timeDay": 1115,
     "timeWeek": 995,
-    "timeMonth": 1316,
+    "timeMonth": 1303,
     "timeYear": 1757,
     "dailyMinutesDown": {
       "2025-06-22": 54,
@@ -100,16 +100,16 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "down",
-    "uptime": "99.61%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "95.00%",
-    "uptimeMonth": "90.63%",
-    "uptimeYear": "98.16%",
-    "time": 1267,
-    "timeDay": 768,
-    "timeWeek": 878,
-    "timeMonth": 944,
+    "status": "up",
+    "uptime": "99.60%",
+    "uptimeDay": "95.61%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "90.48%",
+    "uptimeYear": "98.15%",
+    "time": 1263,
+    "timeDay": 857,
+    "timeWeek": 884,
+    "timeMonth": 942,
     "timeYear": 1150,
     "dailyMinutesDown": {
       "2026-03-01": 36,
@@ -167,7 +167,7 @@
       "2026-05-23": 87,
       "2026-05-24": 9,
       "2026-05-25": 323,
-      "2026-05-28": 0
+      "2026-05-28": 63
     }
   },
   {
@@ -184,8 +184,8 @@
     "time": 1465,
     "timeDay": 826,
     "timeWeek": 934,
-    "timeMonth": 1369,
-    "timeYear": 1290,
+    "timeMonth": 1375,
+    "timeYear": 1292,
     "dailyMinutesDown": {
       "2025-05-31": 18,
       "2025-09-04": 17
@@ -205,8 +205,8 @@
     "time": 1009,
     "timeDay": 858,
     "timeWeek": 932,
-    "timeMonth": 1021,
-    "timeYear": 1017,
+    "timeMonth": 1016,
+    "timeYear": 1018,
     "dailyMinutesDown": {
       "2025-12-02": 44
     }
@@ -225,8 +225,8 @@
     "time": 1272,
     "timeDay": 606,
     "timeWeek": 796,
-    "timeMonth": 887,
-    "timeYear": 1168,
+    "timeMonth": 882,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-06-10": 37,
       "2025-06-26": 181,
@@ -266,8 +266,8 @@
     "time": 728,
     "timeDay": 445,
     "timeWeek": 480,
-    "timeMonth": 542,
-    "timeYear": 607,
+    "timeMonth": 538,
+    "timeYear": 608,
     "dailyMinutesDown": {
       "2025-05-31": 23,
       "2025-07-17": 23
