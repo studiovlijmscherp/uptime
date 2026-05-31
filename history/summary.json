@@ -14,7 +14,7 @@
     "timeDay": 1913,
     "timeWeek": 1116,
     "timeMonth": 1318,
-    "timeYear": 1756,
+    "timeYear": 1754,
     "dailyMinutesDown": {
       "2025-06-22": 54,
       "2025-07-13": 1164,
@@ -100,16 +100,16 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "down",
+    "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "88.58%",
-    "uptimeWeek": "90.71%",
-    "uptimeMonth": "89.70%",
-    "uptimeYear": "98.09%",
-    "time": 1239,
-    "timeDay": 994,
+    "uptimeDay": "84.69%",
+    "uptimeWeek": "90.16%",
+    "uptimeMonth": "89.57%",
+    "uptimeYear": "98.08%",
+    "time": 1236,
+    "timeDay": 1018,
     "timeWeek": 1069,
-    "timeMonth": 967,
+    "timeMonth": 969,
     "timeYear": 1152,
     "dailyMinutesDown": {
       "2026-03-14": 57,
@@ -164,7 +164,7 @@
       "2026-05-28": 63,
       "2026-05-29": 186,
       "2026-05-30": 199,
-      "2026-05-31": 164
+      "2026-05-31": 220
     }
   },
   {
@@ -182,7 +182,7 @@
     "timeDay": 1204,
     "timeWeek": 966,
     "timeMonth": 1361,
-    "timeYear": 1269,
+    "timeYear": 1271,
     "dailyMinutesDown": {
       "2025-09-04": 17
     }
