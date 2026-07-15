@@ -13,7 +13,7 @@
     "time": 1749,
     "timeDay": 1204,
     "timeWeek": 1419,
-    "timeMonth": 1307,
+    "timeMonth": 1291,
     "timeYear": 1688,
     "dailyMinutesDown": {
       "2025-07-16": 24,
@@ -94,14 +94,14 @@
     "slug": "moodstudios",
     "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "96.46%",
-    "uptimeYear": "97.88%",
+    "uptimeDay": "96.12%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "96.34%",
+    "uptimeYear": "97.87%",
     "time": 1237,
     "timeDay": 937,
     "timeWeek": 1020,
-    "timeMonth": 991,
+    "timeMonth": 984,
     "timeYear": 1131,
     "dailyMinutesDown": {
       "2026-04-16": 139,
@@ -160,7 +160,7 @@
       "2026-06-21": 522,
       "2026-06-23": 331,
       "2026-07-12": 45,
-      "2026-07-15": 0
+      "2026-07-15": 56
     }
   },
   {
@@ -177,7 +177,7 @@
     "time": 1374,
     "timeDay": 1050,
     "timeWeek": 1000,
-    "timeMonth": 1207,
+    "timeMonth": 1211,
     "timeYear": 1189,
     "dailyMinutesDown": {
       "2025-09-04": 17
@@ -197,7 +197,7 @@
     "time": 1018,
     "timeDay": 863,
     "timeWeek": 1298,
-    "timeMonth": 1098,
+    "timeMonth": 1094,
     "timeYear": 1007,
     "dailyMinutesDown": {
       "2025-12-02": 44
@@ -217,7 +217,7 @@
     "time": 1227,
     "timeDay": 649,
     "timeWeek": 886,
-    "timeMonth": 889,
+    "timeMonth": 879,
     "timeYear": 1070,
     "dailyMinutesDown": {
       "2025-08-05": 52,
@@ -255,7 +255,7 @@
     "time": 597,
     "timeDay": 457,
     "timeWeek": 538,
-    "timeMonth": 536,
+    "timeMonth": 533,
     "timeYear": 572,
     "dailyMinutesDown": {
       "2025-07-17": 23
