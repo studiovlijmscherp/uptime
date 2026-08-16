@@ -6,10 +6,10 @@
     "slug": "beefs-and-beers",
     "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "70.04%",
-    "uptimeWeek": "79.58%",
-    "uptimeMonth": "93.14%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "73.88%",
+    "uptimeWeek": "79.71%",
+    "uptimeMonth": "93.17%",
+    "uptimeYear": "99.16%",
     "time": 1673,
     "timeDay": 1252,
     "timeWeek": 1361,
@@ -82,7 +82,7 @@
       "2026-08-13": 609,
       "2026-08-14": 143,
       "2026-08-15": 206,
-      "2026-08-16": 273
+      "2026-08-16": 260
     }
   },
   {
@@ -90,19 +90,19 @@
     "url": "https://moodstudios.nl",
     "icon": "https://icons.duckduckgo.com/ip3/moodstudios.nl.ico",
     "slug": "moodstudios",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "97.30%",
+    "uptimeDay": "97.29%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "98.80%",
-    "uptimeYear": "97.80%",
+    "uptimeYear": "97.81%",
     "time": 1124,
     "timeDay": 1186,
     "timeWeek": 1103,
     "timeMonth": 1040,
     "timeYear": 1123,
     "dailyMinutesDown": {
-      "2026-04-18": 372,
+      "2026-04-18": 278,
       "2026-04-19": 47,
       "2026-04-20": 233,
       "2026-04-21": 169,
@@ -160,7 +160,8 @@
       "2026-07-19": 204,
       "2026-07-24": 112,
       "2026-07-29": 119,
-      "2026-08-15": 39
+      "2026-08-15": 39,
+      "2026-08-16": 0
     }
   },
   {
