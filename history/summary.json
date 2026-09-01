@@ -4,19 +4,18 @@
     "url": "https://beefsandbeers.com",
     "icon": "https://icons.duckduckgo.com/ip3/beefsandbeers.com.ico",
     "slug": "beefs-and-beers",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "82.44%",
-    "uptimeMonth": "85.99%",
-    "uptimeYear": "98.78%",
-    "time": 1604,
-    "timeDay": 1895,
-    "timeWeek": 1484,
-    "timeMonth": 1337,
-    "timeYear": 1593,
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "85.97%",
+    "uptimeMonth": "86.17%",
+    "uptimeYear": "98.79%",
+    "time": 1603,
+    "timeDay": 0,
+    "timeWeek": 1531,
+    "timeMonth": 1339,
+    "timeYear": 1591,
     "dailyMinutesDown": {
-      "2026-03-06": 21,
       "2026-03-28": 34,
       "2026-05-06": 87,
       "2026-05-19": 64,
@@ -46,7 +45,8 @@
       "2026-08-25": 46,
       "2026-08-26": 189,
       "2026-08-27": 632,
-      "2026-08-28": 549
+      "2026-08-28": 549,
+      "2026-09-01": 0
     }
   },
   {
@@ -61,8 +61,8 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "97.82%",
     "time": 1124,
-    "timeDay": 1211,
-    "timeWeek": 1143,
+    "timeDay": 0,
+    "timeWeek": 1161,
     "timeMonth": 1118,
     "timeYear": 1123,
     "dailyMinutesDown": {
@@ -141,10 +141,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1276,
-    "timeDay": 1171,
-    "timeWeek": 1018,
-    "timeMonth": 1105,
-    "timeYear": 1169,
+    "timeDay": 0,
+    "timeWeek": 1033,
+    "timeMonth": 1101,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-09-04": 17
     }
@@ -161,10 +161,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1035,
-    "timeDay": 1268,
-    "timeWeek": 1081,
-    "timeMonth": 1072,
-    "timeYear": 1034,
+    "timeDay": 0,
+    "timeWeek": 1103,
+    "timeMonth": 1063,
+    "timeYear": 1035,
     "dailyMinutesDown": {
       "2025-12-02": 44
     }
@@ -181,10 +181,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 1104,
-    "timeDay": 1073,
-    "timeWeek": 909,
-    "timeMonth": 919,
-    "timeYear": 1053,
+    "timeDay": 0,
+    "timeWeek": 925,
+    "timeMonth": 913,
+    "timeYear": 1054,
     "dailyMinutesDown": {
       "2025-09-24": 31,
       "2025-10-22": 55,
@@ -214,9 +214,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 594,
-    "timeDay": 665,
-    "timeWeek": 524,
-    "timeMonth": 533,
+    "timeDay": 0,
+    "timeWeek": 533,
+    "timeMonth": 530,
     "timeYear": 570,
     "dailyMinutesDown": {}
   }
