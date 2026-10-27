@@ -57,16 +57,17 @@
     "slug": "moodstudios",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "97.49%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "97.73%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.57%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "97.72%",
     "time": 1119,
     "timeDay": 435,
     "timeWeek": 656,
     "timeMonth": 1037,
     "timeYear": 1107,
     "dailyMinutesDown": {
+      "2026-04-18": 69,
       "2026-04-19": 47,
       "2026-04-20": 233,
       "2026-04-21": 169,
@@ -129,8 +130,7 @@
       "2026-08-19": 29,
       "2026-09-07": 214,
       "2026-09-18": 190,
-      "2026-10-21": 245,
-      "2026-10-27": 8
+      "2026-10-21": 245
     }
   },
   {
