@@ -207,19 +207,20 @@
     "url": "https://wat.verzameldwerk.com/webhook/fd953b37-1e7e-4fde-9008-cd19f39d1e5d",
     "icon": "https://icons.duckduckgo.com/ip3/wat.verzameldwerk.com.ico",
     "slug": "bluekens-emailwall-n8-n",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.96%",
-    "time": 556,
-    "timeDay": 455,
-    "timeWeek": 439,
-    "timeMonth": 465,
-    "timeYear": 552,
+    "time": 555,
+    "timeDay": 366,
+    "timeWeek": 419,
+    "timeMonth": 459,
+    "timeYear": 551,
     "dailyMinutesDown": {
-      "2026-10-21": 226
+      "2026-10-21": 226,
+      "2026-11-19": 0
     }
   }
 ]
